@@ -217,6 +217,12 @@ st.write(
     - ➡️ Assisted with post-production editing 
     """)
     
+st.write("#")
+    
+# ----- JOB 7=8 -----
+st.write("👨‍🏫", "**Performance Analyst Intern | Houston Dynamo**")
+st.write("May 2016 - September 2016 | 🌍", "**Houston, Texas, USA**")
+    
 # ----- SKILLS -----
 # Line break
 st.write("---")
