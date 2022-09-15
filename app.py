@@ -68,7 +68,7 @@ with col1:
 st.download_button(
 label=" 📄 Download MSc Publication",
 data=PDFbyte,
-file_name=resume_file.name,
+file_name=MSc_file.name,
 mime="appication/octet-stream",
 )
     
