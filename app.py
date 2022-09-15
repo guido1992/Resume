@@ -220,7 +220,7 @@ st.write(
 st.write("#")
     
 # ----- JOB 7=8 -----
-st.write("👨‍🏫", "**Performance Analyst Intern | Houston Dynamo**")
+st.write("🧑‍💻", "**Performance Analyst Intern | Houston Dynamo**")
 st.write("May 2016 - September 2016 | 🌍", "**Houston, Texas, USA**")
     
 # ----- SKILLS -----
@@ -231,7 +231,7 @@ st.subheader("Hard Skills")
 st.write(
     """
     - 👨‍💻 Programming: Python, Pandas, Matplotlib, R, SQL)
-    - 📈 Data Visualisation: Tableau, Streamlit, , Microsoft Excel, Power BI
+    - 📈 Data Visualisation: Tableau, Streamlit, Microsoft Excel, Power BI
     - 🗄️ Databases: SQL, Impala
     - 🕵️ Data cleaning: Alteryx, Pandas, Tableau Prep, Trifacta
     """
