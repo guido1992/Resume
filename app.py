@@ -92,6 +92,8 @@ st.write(
     - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
     """
     )
+
+st.write('')
     
 # ----- SOCIAL LINKS -----
 cols = st.columns(len(SOCIAL_MEDIA))
