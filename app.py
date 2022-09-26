@@ -246,11 +246,12 @@ st.write(
     - 📜 Introduction to R: Udemy
     - 📜 Hands on Essentials - Data Warehouse:
     - 📜 5 day coding challenge: Code Institute
-    - 📜 Trifacta - Data Deputy: Alteryx
     - 📜 Tableau Desktop: Tableau Software
+    - 📜 Alteryx Deisgner Core: Alteryx
+    - 📜 Trifacta - Data Deputy: Alteryx
+    - 📜 Trifacta - Data Wranger: Alteryx
     - 📜 Python Programming: Udemy
     - 📜 SQL: W3Schools
-    - 📜 Trifacta - Data Wranger: Alteryx
     """
     )
     
