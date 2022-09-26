@@ -244,7 +244,7 @@ st.subheader("Certifications")
 st.write(
     """
     - 📜 Introduction to R: Udemy
-    - 📜 Hands on Essentials - Data Warehouse:
+    - 📜 Hands on Essentials - Data Warehouse: Snowflake
     - 📜 5 day coding challenge: Code Institute
     - 📜 Tableau Desktop: Tableau Software
     - 📜 Alteryx Designer Core: Alteryx
