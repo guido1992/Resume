@@ -147,7 +147,7 @@ st.write(
     - ➡️ Accomplished with team, combination of 5 data sources into one Tableau dashboard
     - ➡️ Collaborated with colleagues and managers on incoming data requests
     - ➡️ Assisted with Tableau training for internal colleagues
-    - ➡️ Led an organisation wise Tableau monthly user group
+    - ➡️ Co-led an organisation wide Tableau monthly user group
     """)
 
 st.write("#")
