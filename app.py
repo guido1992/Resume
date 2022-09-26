@@ -93,7 +93,7 @@ st.write(
     """
     )
 
-st.write('')
+st.markdown('')
     
 # ----- SOCIAL LINKS -----
 cols = st.columns(len(SOCIAL_MEDIA))
