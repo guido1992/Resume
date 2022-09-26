@@ -247,7 +247,7 @@ st.write(
     - 📜 Hands on Essentials - Data Warehouse:
     - 📜 5 day coding challenge: Code Institute
     - 📜 Tableau Desktop: Tableau Software
-    - 📜 Alteryx Deisgner Core: Alteryx
+    - 📜 Alteryx Designer Core: Alteryx
     - 📜 Trifacta - Data Deputy: Alteryx
     - 📜 Trifacta - Data Wranger: Alteryx
     - 📜 Python Programming: Udemy
