@@ -18,7 +18,7 @@ from PIL import Image
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "Alex_Rathke_CV.pdf"
-MSc_file = current_dir / "assets" / "MSc_Pub.pdf"
+#MSc_file = current_dir / "assets" / "MSc_Pub.pdf"
 profile_pic = current_dir / "assets" / "Alex_Rathke.jpg"
 
 
@@ -64,12 +64,12 @@ col1, col2 = st.columns(2, gap="small")
 with col1:
     st.image(profile_pic, width=230)
     
-st.download_button(
-label=" 📄 Download MSc Publication",
-data=PDFbyte,
-file_name=MSc_file.name,
-mime="appication/octet-stream",
-)
+#st.download_button(
+#label=" 📄 Download MSc Publication",
+#data=PDFbyte,
+#file_name=MSc_file.name,
+#mime="appication/octet-stream",
+#)
     
 with col2:
     st.title(NAME)
