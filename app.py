@@ -36,7 +36,6 @@ Assisting businesses by supporting data-driven decision-making.
 EMAIL = "rathkealex@gmail.com"
 MSc = "https://www.redalyc.org/articulo.oa?id=301052437005"
 
-
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/rathkealex/",
     "GitHub": "https://github.com/guido1992",
@@ -88,7 +87,7 @@ mime="appication/octet-stream",
     
 st.write(
     """
-    - ✔️ 5 years experience extracting actionable insights from data
+    - ✔️ 5+ years experience extracting actionable insights from data
     - ✔️ Strong hands on experience and knowledge across various software tools
     - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
     """
@@ -230,10 +229,28 @@ st.write("---")
 st.subheader("Hard Skills")
 st.write(
     """
-    - 👨‍💻 Programming: Python, Pandas, Matplotlib, R, SQL)
+    - 👨‍💻 Programming: Python, Pandas, Matplotlib, R, SQL
     - 📈 Data Visualisation: Tableau, Streamlit, Microsoft Excel, Power BI
-    - 🗄️ Databases: SQL, Impala
+    - 🗄️ Databases: SQL, Impala, Snowflake, Mongo DB
     - 🕵️ Data cleaning: Alteryx, Pandas, Tableau Prep, Trifacta
+    - 💻 Software dev: HTML, CSS, Javascript
+    """
+    )
+    
+# Line break
+st.write("---")
+
+st.subheader("Certifications")
+st.write(
+    """
+    - 📜 Introduction to R: Udemy
+    - 📜 Hands on Essentials - Data Warehouse:
+    - 📜 5 day coding challenge: Code Institute
+    - 📜 Trifacta - Data Deputy: Alteryx
+    - 📜 Tableau Desktop: Tableau Software
+    - 📜 Python Programming: Udemy
+    - 📜 SQL: W3Schools
+    - 📜 Trifacta - Data Wranger: Alteryx
     """
     )
     
