@@ -123,7 +123,19 @@ st.markdown('')
 #st.write("#")
 st.subheader("Work History")
 
-# ----- JOB 1 -----
+# ----- JOB 2 -----
+st.write("🧑‍💻", "**Visualisation & Reporting Specialist | Clear Strategy**")
+st.write("November 2022 - present | 🌍", "**Dublin, Ireland**")
+st.write(
+    """
+    - ➡️ Dashboard and Reporting analysis with Power BI
+    - ➡️ Consulting of data requirements across projects for clients
+    - ➡️ Collaborated with project team to manage data flow process on consulting projects
+    """)
+
+st.write("#")
+
+# ----- JOB 2 -----
 st.write("🧑‍💻", "**People Data Analyst | Intercom**")
 st.write("September 2021 - September 2022 | 🌍", "**Dublin, Ireland**")
 st.write(
@@ -137,7 +149,7 @@ st.write(
 
 st.write("#")
     
-# ----- JOB 2 -----
+# ----- JOB 3 -----
 st.write("🧑‍💻", "**Data Analyst | Aon ACIA**")
 st.write("June 2018 - August 2021 | 🌍", "**Dublin, Ireland**")
 st.write(
@@ -152,7 +164,7 @@ st.write(
 
 st.write("#")
     
-# ----- JOB 3 -----
+# ----- JOB 4 -----
 st.write("🧑‍💻", "**Data Analyst | Dundalk FC**")
 st.write("June 2019 - October 2019 | 🌍", "**Dublin, Ireland**")
 st.write(
@@ -167,7 +179,7 @@ st.write(
     
 st.write("#")
     
-# ----- JOB 4 -----
+# ----- JOB 5 -----
 st.write("🧑‍💻", "**Data Analyst | Brand Athlete Agency**")
 st.write("January 2019 - August 2019 | 🌍", "**London, UK**")
 st.write(
@@ -180,7 +192,7 @@ st.write(
     
 st.write("#")
     
-# ----- JOB 5 -----
+# ----- JOB 6 -----
 st.write("🧑‍💻", "**Performance & Data Analyst | Tipperary GAA**")
 st.write("September 2017 - June 2019 & January 2022 - May 2022 | 🌍", "**Dublin, Ireland**")
 st.write(
@@ -194,7 +206,7 @@ st.write(
     
 st.write("#")
     
-# ----- JOB 6 -----
+# ----- JOB 7 -----
 st.write("🧑‍💻", "**Performance Analyst | Remote**")
 st.write("September 2017 - May 2018")
 st.write(
@@ -207,7 +219,7 @@ st.write(
     
 st.write("#")
     
-# ----- JOB 7 -----
+# ----- JOB 8 -----
 st.write("👨‍🏫", "**TV Analyst | StarTimes**")
 st.write("March 2016 - June 2017 | 🌍", "**Dublin, Ireland**")
 st.write(
