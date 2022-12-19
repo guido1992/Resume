@@ -143,7 +143,7 @@ st.write(
     - ➡️ Ensured Diversity Ethnicity & Inclusion (DEI) data collection strategies
     - ➡️ Developed & managed DEI quarterly + annual reports for Executives & Leaders
     - ➡️ Collaborated on monthly reports - Headcount, Attrition, Starts, Terms
-    - ➡️ Handled data requests from managers and colleagues
+    - ➡️ Managed data requests from managers and colleagues
     - ➡️ Building of internal Tableau Online People Data database & visualisation dashboards
     """)
 
@@ -156,7 +156,7 @@ st.write(
     """
     - ➡️ Re-developed data manipulation processes from SQL Server to Alteryx & Trifacta
     - ➡️ Build Tableau dashboards for internal colleagues from different departments
-    - ➡️ Accomplished with team, combination of 5 data sources into one Tableau dashboard
+    - ➡️ Accomplished with team, combination of five data sources into one Tableau dashboard
     - ➡️ Collaborated with colleagues and managers on incoming data requests
     - ➡️ Assisted with Tableau training for internal colleagues
     - ➡️ Co-led an organisation wide Tableau monthly user group
@@ -184,7 +184,7 @@ st.write("🧑‍💻", "**Data Analyst | Brand Athlete Agency**")
 st.write("January 2019 - August 2019 | 🌍", "**London, UK**")
 st.write(
     """
-    - ➡️ Developed and built data flow process to ingest 3rd party data
+    - ➡️ Developed and built data flow process to ingest third party data
     - ➡️ Used to analyse and store player data for a recruitment system
     - ➡️ Compiled & wrote player analysis & recruitment reports to identify players
     - ➡️ Software tools used: Alteryx, Python & Tableau
