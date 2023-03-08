@@ -20,7 +20,9 @@ css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "Alex_Rathke_CV.pdf"
 #MSc_file = current_dir / "assets" / "MSc_Pub.pdf"
 profile_pic = current_dir / "assets" / "Alex_Rathke.jpg"
-
+brazil = current_dir / "assets" / "British_Grand_Prix.png"
+monza = current_dir / "assets" / "Italian_Grand_Prix.png"
+spa = current_dir / "assets" / "Belgium_Grand_Prix.png"
 
 # ----- GENERAL SETTINGS -----
 PAGE_TITLE = "Digital CV | Alex Rathke"
@@ -45,7 +47,7 @@ SOCIAL_MEDIA = {
 
 PROJECTS = {
     " 📁 Tableau Portfolio - My Tableau Public profile": "https://public.tableau.com/app/profile/alex.rathke#!/",
-    " 📈 FIFA World Rankings - A python web application built in Streamlit": "https://ladumaanalytics-world-rankings-fifa-rankings-p2vyq8.streamlitapp.com/",
+    " 📈 Sample Formula 1 Grand Prix Race Track - Tableau Visualisations": "https://github.com/guido1992/Resume",
     " 📝 MSc Publication": "https://www.redalyc.org/articulo.oa?id=301052437005",
     }
 
@@ -62,7 +64,7 @@ profile_pic = Image.open(profile_pic)
 # ----- HERO SECTION -----
 col1, col2 = st.columns(2, gap="small")
 with col1:
-    st.image(profile_pic, width=230)
+    st.image(profile_pic, width=250)
     
 #st.download_button(
 #label=" 📄 Download MSc Publication",
@@ -277,5 +279,25 @@ st.subheader("Projects & Accomplishments")
 st.write("Hoover over the links below to visit the project")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
+    
+# Line break
+st.write("""
+         """)
+
+### Sample Data Visualisations
+st.subheader("Sample Tableau Data Visualisations")
+
+brazil = Image.open(brazil)
+monza = Image.open(monza)
+spa = Image.open(spa)
+
+# ----- HERO SECTION -----
+col1, col2, col3 = st.columns(3, gap="small")
+with col1:
+    st.image(brazil, width=220)
+with col2:
+    st.image(monza, width=220)
+with col3:
+    st.image(spa, width=220)
     
     
