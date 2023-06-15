@@ -29,7 +29,7 @@ PAGE_TITLE = "Digital CV | Alex Rathke"
 PAGE_ICON = ":wave:"
 NAME = "Alex Rathke"
 DESCRIPTION = """
-Data Analyst, Business Intelligence Analyst\n, Data Visualisation
+Data Analyst, Business Intelligence Analyst, \nData Visualisation
 """
 DESCRIPTION1 = """
 Assisting businesses by supporting data-driven decision-making.
