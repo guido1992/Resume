@@ -276,7 +276,7 @@ st.write("---")
     
 # ----- PROJECTS & ACCOMPLISHMENTS -----
 st.subheader("Projects & Accomplishments")
-st.write("Hoover over the links below to visit the project")
+st.write("Click on the links below to visit the project")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
     
