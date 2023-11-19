@@ -131,9 +131,14 @@ st.write("🧑‍💻", "**Visualisation & Reporting Specialist | Clear Strategy
 st.write("November 2022 - present | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Dashboard and Reporting analysis with Power BI
-    - ➡️ Consulting of data requirements across projects for clients
-    - ➡️ Collaborated with project team to manage data flow process on consulting projects
+    - ➡️ Provided and engaged within the creation process of robust and agile reporting\n
+    solutions using Power BI and Microsoft Excel to enhance clients’ data utilisation capabilities\n
+    and provide actionable insights.
+    - ➡️ Built and presented Proof of Concepts (POCs), showcasing technical capabilities, and\n
+    facilitating successful business pitches.
+    - ➡️ Contributed to internal and external growth strategies, identifying areas for company\n
+    expansion, and implementing initiatives to foster both internal efficiency and external\n
+    business development.
     """)
 
 st.write("#")
@@ -143,11 +148,16 @@ st.write("🧑‍💻", "**Performance Data & Visualisation Analyst | Offaly GAA
 st.write("November 2022 – July 2023 | 🌍", "**Offaly, Ireland**")
 st.write(
     """
-    - ➡️ Part-time work in GAA football providing team and opposition analysis to Senior Men’s team
-    - ➡️ Video analysis and tagging of games for coaching and technical staff
-    - ➡️ Reporting of team and opposition analysis using in-house collected data 
-    - ➡️ Build Tableau and Python based data visualisations using self-collected data
-    - ➡️ Aided technical staff with data interpretations for pre- and post-match analysis
+    - ➡️ Conducted comprehensive team and opposition analysis for the Senior Men’s team - providing\n
+    insights to coaching staff.
+    - ➡️ Generated insightful Tableau built reports on team and opposition analysis by leveraging\n
+    in-house collected data.
+    - ➡️ Developed and maintained a Python application enhancing the accessibility and interpretability\n
+    of self-collected data.
+    - ➡️ Presented findings in a clear and concise manner, facilitating informed decision making for\n
+    coaching and technical staff.
+    - ➡️ Assisted in translating complex data insights into actional strategies, contributing to the\n
+    team’s overall performance improvement. 
     """)
 
 st.write("#")
@@ -157,11 +167,14 @@ st.write("🧑‍💻", "**People Data Analyst | Intercom**")
 st.write("September 2021 - September 2022 | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Ensured Diversity Ethnicity & Inclusion (DEI) data collection strategies
-    - ➡️ Developed & managed DEI quarterly + annual reports for Executives & Leaders
-    - ➡️ Collaborated on monthly reports - Headcount, Attrition, Starts, Terms
-    - ➡️ Managed data requests from managers and colleagues
-    - ➡️ Building of internal Tableau Online People Data database & visualisation dashboards
+    - ➡️ Directed the implementation of a comprehensive Diversity, Ethnicity & Inclusion (DEI) data\n
+    collection strategy.
+    - ➡️ Developed & managed DEI quarterly and annual reports tailored for Executives and Leaders which\n
+    provided actionable insights to support strategic decision-making.
+    - ➡️ Played a key role in cross-functional collaboration by contributing to monthly reports on critical\n
+    HR metrics.
+    - ➡️ Took the initiative to build an internal Tableau People Data database, creating dynamic visualisations\n
+    aimed at enhancing the understanding of HR metrics across the business.
     """)
 
 st.write("#")
@@ -171,12 +184,14 @@ st.write("🧑‍💻", "**Data Analyst | Aon ACIA**")
 st.write("June 2018 - August 2021 | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Re-developed data manipulation processes from SQL Server to Alteryx & Trifacta
-    - ➡️ Build Tableau dashboards for internal colleagues from different departments
-    - ➡️ Accomplished with team, combination of five data sources into one Tableau dashboard
-    - ➡️ Collaborated with colleagues and managers on incoming data requests
-    - ➡️ Assisted with Tableau training for internal colleagues
-    - ➡️ Co-led an organisation wide Tableau monthly user group
+    - ➡️ Successfully re-engineered data manipulation processes, transitioning from Microsoft SQL\n
+    Server to Alteryx and Trifacta, resulting in enhanced efficiency and streamlined workflows.
+    - ➡️ Accomplished the integration of five separate data sources into a cohesive Tableau dashboard,\n
+    providing a unified and comprehensive view of the business for executives and leaders.
+    - ➡️ Leveraged Tableau skills to develop impactful dashboards for colleagues across different\n
+    departments, facilitating data-driven decision-making.
+    - ➡️ Played a pivotal role in providing Tableau training sessions for internal colleagues, contributing\n
+    to the organisation’s data literacy, and fostering self-sufficiency in data visualisation and analysis.
     """)
 
 st.write("#")
@@ -186,12 +201,12 @@ st.write("🧑‍💻", "**Data Analyst | Dundalk FC**")
 st.write("June 2019 - October 2019 | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Part-time work in Dundalk’s qualification pathway to European Club competitions
-    - ➡️ Analysed opposition teams using data for trend reporting highlighting styles of play
-    - ➡️ Presented work to Technical Director and Technical staff
-    - ➡️ Developed Tableau dashboards - assist & educate staff on understanding data
-    - ➡️ Aided Technical Director with player scouting & implementation of data flow process
-    - ➡️ Software tools used: Alteryx, Python & Tableau
+    - ➡️ Conducted in-depth analysis of opposition team data trends within Dundalk’s qualification pathway\n
+    to the European Champions League & Europa League.
+    - ➡️ Delivered valuable insights to technical staff – highlighting potential playing strategies based\n
+    on comprehensive data examinations.
+    - ➡️ Collaborated closely with the Technical Director to support player scouting efforts and implemented\n
+    a streamlined data flow process using Alteryx & Python, enhancing the efficiency and accuracy of player assessment and recruitment processes.
     """)
     
 st.write("#")
