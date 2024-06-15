@@ -50,6 +50,7 @@ PROJECTS = {
     " 📁 Tableau Portfolio 2 - My Tableau Public profile": "https://public.tableau.com/app/profile/alexander.rathke",
     " 📈 Sample Formula 1 Grand Prix Race Track - Tableau Visualisations": "https://github.com/guido1992/Resume",
     " 📝 MSc Publication": "https://www.redalyc.org/articulo.oa?id=301052437005",
+    " 📈 % of the World visited": "https://alex-world-travel.streamlit.app/",
     }
 
 
