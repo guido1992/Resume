@@ -136,7 +136,7 @@ st.write(
     - ➡️ Contributed to internal and external growth strategies, identifying areas for company expansion, and implementing initiatives to foster both internal efficiency and external business development.
     """)
 
-st.write("#")
+st.write("")
 
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance Data & Visualisation Analyst | Offaly GAA**") 
@@ -150,7 +150,7 @@ st.write(
     - ➡️ Assisted in translating complex data insights into actional strategies, contributing to the team’s overall performance improvement. 
     """)
 
-st.write("#")
+st.write("")
 
 # ----- JOB -----
 st.write("🧑‍💻", "**People Data Analyst | Intercom**")
@@ -163,7 +163,7 @@ st.write(
     - ➡️ Took the initiative to build an internal Tableau People Data database, creating dynamic visualisations aimed at enhancing the understanding of HR metrics across the business.
     """)
 
-st.write("#")
+st.write("")
     
 # ----- JOB -----
 st.write("🧑‍💻", "**Data Analyst | Aon ACIA**")
@@ -176,7 +176,7 @@ st.write(
     - ➡️ Played a pivotal role in providing Tableau training sessions for internal colleagues, contributing to the organisation’s data literacy, and fostering self-sufficiency in data visualisation and analysis.
     """)
 
-st.write("#")
+st.write("")
     
 # ----- JOB -----
 st.write("🧑‍💻", "**Data Analyst | Dundalk FC**")
@@ -188,7 +188,7 @@ st.write(
     - ➡️ Collaborated closely with the Technical Director to support player scouting efforts and implemented a streamlined data flow process using Alteryx & Python, enhancing the efficiency and accuracy of player assessment and recruitment processes.
     """)
     
-st.write("#")
+st.write("")
     
 # ----- JOB -----
 st.write("🧑‍💻", "**Data Analyst | Brand Athlete Agency**")
@@ -201,7 +201,7 @@ st.write(
     - ➡️ Software tools used: Alteryx, Python & Tableau.
     """)
     
-st.write("#")
+st.write("")
     
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance & Data Analyst | Tipperary GAA**")
@@ -215,20 +215,25 @@ st.write(
     - ➡️ Software tools used: Microsoft Excel, Python & Tableau.
     """)
 
-st.write(""
-        )
+st.write("")
        
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance Analyst | Remote**")
 st.write("September 2017 - May 2018")
 
+st.write("")
+
 # ----- JOB -----
 st.write("👨‍🏫", "**TV Analyst | StarTimes**")
 st.write("March 2016 - June 2017 | 🌍", "**Dublin, Ireland**")
 
+st.write("")
+
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance Analyst Intern | Houston Dynamo**")
 st.write("May 2016 - September 2016 | 🌍", "**Houston, Texas, USA**")
+
+st.write("")
     
 # ----- SKILLS -----
 # Line break
