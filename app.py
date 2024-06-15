@@ -143,16 +143,11 @@ st.write("🧑‍💻", "**Performance Data & Visualisation Analyst | Offaly GAA
 st.write("November 2022 – July 2023 | 🌍", "**Offaly, Ireland**")
 st.write(
     """
-    - ➡️ Conducted comprehensive team and opposition analysis for the Senior Men’s team - providing\n
-    insights to coaching staff.
-    - ➡️ Generated insightful Tableau built reports on team and opposition analysis by leveraging\n
-    in-house collected data.
-    - ➡️ Developed and maintained a Python application enhancing the accessibility and interpretability\n
-    of self-collected data.
-    - ➡️ Presented findings in a clear and concise manner, facilitating informed decision making for\n
-    coaching and technical staff.
-    - ➡️ Assisted in translating complex data insights into actional strategies, contributing to the\n
-    team’s overall performance improvement. 
+    - ➡️ Conducted comprehensive team and opposition analysis for the Senior Men’s team - providing insights to the coaching staff.
+    - ➡️ Generated insightful Tableau-built reports on team and opposition analysis by leveraging in-house collected data.
+    - ➡️ Developed and maintained a Python application enhancing the accessibility and interpretability of self-collected data.
+    - ➡️ Presented findings in a clear and concise manner, facilitating informed decision-making for coaching and technical staff.
+    - ➡️ Assisted in translating complex data insights into actional strategies, contributing to the team’s overall performance improvement. 
     """)
 
 st.write("#")
@@ -162,14 +157,10 @@ st.write("🧑‍💻", "**People Data Analyst | Intercom**")
 st.write("September 2021 - September 2022 | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Directed the implementation of a comprehensive Diversity, Ethnicity & Inclusion (DEI) data\n
-    collection strategy.
-    - ➡️ Developed & managed DEI quarterly and annual reports tailored for Executives and Leaders which\n
-    provided actionable insights to support strategic decision-making.
-    - ➡️ Played a key role in cross-functional collaboration by contributing to monthly reports on critical\n
-    HR metrics.
-    - ➡️ Took the initiative to build an internal Tableau People Data database, creating dynamic visualisations\n
-    aimed at enhancing the understanding of HR metrics across the business.
+    - ➡️ Directed the implementation of a comprehensive Diversity, Ethnicity & Inclusion (DEI) data collection strategy.
+    - ➡️ Developed & managed DEI quarterly and annual reports tailored for Executives and Leaders which provided actionable insights to support strategic decision-making.
+    - ➡️ Played a key role in cross-functional collaboration by contributing to monthly reports on critical HR metrics.
+    - ➡️ Took the initiative to build an internal Tableau People Data database, creating dynamic visualisations aimed at enhancing the understanding of HR metrics across the business.
     """)
 
 st.write("#")
@@ -179,14 +170,10 @@ st.write("🧑‍💻", "**Data Analyst | Aon ACIA**")
 st.write("June 2018 - August 2021 | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Successfully re-engineered data manipulation processes, transitioning from Microsoft SQL\n
-    Server to Alteryx and Trifacta, resulting in enhanced efficiency and streamlined workflows.
-    - ➡️ Accomplished the integration of five separate data sources into a cohesive Tableau dashboard,\n
-    providing a unified and comprehensive view of the business for executives and leaders.
-    - ➡️ Leveraged Tableau skills to develop impactful dashboards for colleagues across different\n
-    departments, facilitating data-driven decision-making.
-    - ➡️ Played a pivotal role in providing Tableau training sessions for internal colleagues, contributing\n
-    to the organisation’s data literacy, and fostering self-sufficiency in data visualisation and analysis.
+    - ➡️ Successfully re-engineered data manipulation processes, transitioning from Microsoft SQL Server to Alteryx and Trifacta, resulting in enhanced efficiency and streamlined workflows.
+    - ➡️ Accomplished the integration of five separate data sources into a cohesive Tableau dashboard, providing a unified and comprehensive view of the business for executives and leaders.
+    - ➡️ Leveraged Tableau skills to develop impactful dashboards for colleagues across different departments, facilitating data-driven decision-making.
+    - ➡️ Played a pivotal role in providing Tableau training sessions for internal colleagues, contributing to the organisation’s data literacy, and fostering self-sufficiency in data visualisation and analysis.
     """)
 
 st.write("#")
@@ -196,12 +183,9 @@ st.write("🧑‍💻", "**Data Analyst | Dundalk FC**")
 st.write("June 2019 - October 2019 | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Conducted in-depth analysis of opposition team data trends within Dundalk’s qualification pathway\n
-    to the European Champions League & Europa League.
-    - ➡️ Delivered valuable insights to technical staff – highlighting potential playing strategies based\n
-    on comprehensive data examinations.
-    - ➡️ Collaborated closely with the Technical Director to support player scouting efforts and implemented\n
-    a streamlined data flow process using Alteryx & Python, enhancing the efficiency and accuracy of player assessment and recruitment processes.
+    - ➡️ Conducted in-depth analysis of opposition team data trends within Dundalk’s qualification pathway to the European Champions League & Europa League.
+    - ➡️ Delivered valuable insights to technical staff – highlighting potential playing strategies based on comprehensive data examinations.
+    - ➡️ Collaborated closely with the Technical Director to support player scouting efforts and implemented a streamlined data flow process using Alteryx & Python, enhancing the efficiency and accuracy of player assessment and recruitment processes.
     """)
     
 st.write("#")
@@ -211,10 +195,10 @@ st.write("🧑‍💻", "**Data Analyst | Brand Athlete Agency**")
 st.write("January 2019 - August 2019 | 🌍", "**London, UK**")
 st.write(
     """
-    - ➡️ Developed and built data flow process to ingest third party data
-    - ➡️ Used to analyse and store player data for a recruitment system
-    - ➡️ Compiled & wrote player analysis & recruitment reports to identify players
-    - ➡️ Software tools used: Alteryx, Python & Tableau
+    - ➡️ Developed and built data flow process to ingest third party data.
+    - ➡️ Used to analyse and store player data for a recruitment system.
+    - ➡️ Compiled & wrote player analysis & recruitment reports to identify players.
+    - ➡️ Software tools used: Alteryx, Python & Tableau.
     """)
     
 st.write("#")
@@ -224,11 +208,11 @@ st.write("🧑‍💻", "**Performance & Data Analyst | Tipperary GAA**")
 st.write("September 2017 - June 2019 & January 2022 - May 2022 | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Part-time evening & weekend work with Tipperary Senior Footballers
-    - ➡️ Assisted match-day analysis of data collection & led data flow visualisation process
-    - ➡️ Developed Tableau dashboards to assist and visualise performance metrics 
-    - ➡️ Helped to educate management staff on data insights
-    - ➡️ Software tools used: Microsoft Excel, Python & Tableau
+    - ➡️ Part-time evening & weekend work with Tipperary Senior Footballers.
+    - ➡️ Assisted match-day analysis of data collection & led data flow visualisation process.
+    - ➡️ Developed Tableau dashboards to assist and visualise performance metrics.
+    - ➡️ Helped to educate management staff on data insights.
+    - ➡️ Software tools used: Microsoft Excel, Python & Tableau.
     """)
     
 st.write("#")
@@ -236,26 +220,12 @@ st.write("#")
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance Analyst | Remote**")
 st.write("September 2017 - May 2018")
-st.write(
-    """
-    - ➡️ Part-time evening & weekend work as a remote analyst
-    - ➡️ Assisted Head Analyst with match-day analysis of data collection.
-    - ➡️ Build a data flow visualisation process using Tableau
-    - ➡️ Software tools used: Microsoft Excel & Tableau 
-    """)
-    
+
 st.write("#")
     
 # ----- JOB -----
 st.write("👨‍🏫", "**TV Analyst | StarTimes**")
 st.write("March 2016 - June 2017 | 🌍", "**Dublin, Ireland**")
-st.write(
-    """
-    - ➡️ Football analytics talk show covering highlights of the German Football Bundesliga
-    - ➡️ Assisted with script writing to cover content for episodes
-    - ➡️ Collaborated on video footage & data sourcing to add insight for stories
-    - ➡️ Assisted with post-production editing 
-    """)
     
 st.write("#")
     
