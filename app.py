@@ -214,21 +214,15 @@ st.write(
     - ➡️ Helped to educate management staff on data insights.
     - ➡️ Software tools used: Microsoft Excel, Python & Tableau.
     """)
-    
-st.write("#")
-    
+       
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance Analyst | Remote**")
 st.write("September 2017 - May 2018")
 
-st.write("#")
-    
 # ----- JOB -----
 st.write("👨‍🏫", "**TV Analyst | StarTimes**")
 st.write("March 2016 - June 2017 | 🌍", "**Dublin, Ireland**")
-    
-st.write("#")
-    
+
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance Analyst Intern | Houston Dynamo**")
 st.write("May 2016 - September 2016 | 🌍", "**Houston, Texas, USA**")
