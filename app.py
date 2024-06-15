@@ -214,6 +214,9 @@ st.write(
     - ➡️ Helped to educate management staff on data insights.
     - ➡️ Software tools used: Microsoft Excel, Python & Tableau.
     """)
+
+st.write(""
+        )
        
 # ----- JOB -----
 st.write("🧑‍💻", "**Performance Analyst | Remote**")
