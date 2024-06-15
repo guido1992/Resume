@@ -131,8 +131,7 @@ st.write("🧑‍💻", "**Visualisation & Reporting Specialist | Clear Strategy
 st.write("November 2022 - present | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Provided and engaged within the creation process of robust and agile reporting\n
-    solutions using Power BI and Microsoft Excel to enhance clients’ data utilisation capabilities\n
+    - ➡️ Provided and engaged within the creation process of robust and agile reporting solutions using Power BI and Microsoft Excel to enhance clients’ data utilisation capabilities\n
     and provide actionable insights.
     - ➡️ Built and presented Proof of Concepts (POCs), showcasing technical capabilities, and\n
     facilitating successful business pitches.
