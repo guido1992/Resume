@@ -132,9 +132,10 @@ st.write("🧑‍💻", "**Data Analyst | Arachas**")
 st.write("May 2024 - present | 🌍", "**Dublin, Ireland**")
 st.write(
     """
-    - ➡️ Liaise with direct colleagues and internal stakeholders to collate data across the business.
-    - ➡️ Build Power BI dashboards and reports to provide actionable insights to colleagues and internal stakeholders.
-    - ➡️ Contribute to newly established Data Team to document processes and procedures to foster a growing data culture.
+    - ➡️ Lead the data analysis and report delivery for Arachas' Specialty Team
+    - ➡️ Collaborate with stakeholders to drive business performance and deliver monthly MI reports
+    - ➡️ Turn data into actionable insights and develop scalable reporting solutions
+    - ➡️ Support the business with ad hoc due diligence of potential acquisitions
     """)
 
 st.write("")
