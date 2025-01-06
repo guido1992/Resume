@@ -133,9 +133,14 @@ st.write("May 2024 - present | 🌍", "**Dublin, Ireland**")
 st.write(
     """
     - ➡️ Lead the data analysis and report delivery for Arachas' Specialty Team
-    - ➡️ Collaborate with stakeholders to drive business performance and deliver monthly MI reports
-    - ➡️ Turn data into actionable insights and develop scalable reporting solutions
-    - ➡️ Support the business with ad hoc due diligence of potential acquisitions
+    - ➡️ Conducted in-depth analysis of a company-acquired book of business, ensuring data accuracy
+          and alignment with expected post-transaction performance
+    - ➡️ Designed and implemented reporting dashboards tailored to Portfolio Managers overseeing specific 
+          Insurance Schemes, enhancing decision-making capabilities.
+    - ➡️ Collaborated with the sales team to automate reporting processes, streamlining data delivery and 
+          improving efficiency
+    - ➡️ Transformed legacy Excel-based reporting systems into automated, scalable solutions, driving operational 
+         improvements across the business
     """)
 
 st.write("")
